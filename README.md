@@ -26,6 +26,6 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://https://www.linkedin.com/in/shivam-tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
+<a href="https://https://www.linkedin.com/in/shivam-tomar-929b1822a" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
 <a href="mailto:tomar102003@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
