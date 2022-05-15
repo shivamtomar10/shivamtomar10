@@ -7,8 +7,9 @@
 </p>
 
 
-- 🔭 I’m currently a student at Ramanujan College
-- 👯 Starting contribute to small Projects. 
+- 🔭 I’m currently a 1st year Bsc(Hons.) Computer Science student  at Ramanujan College(University of Delhi).
+- 👯 I am interesting in open source and cloud computing . 
+- Skills- C++, Java , python , Docker , kubernetes and nowadays in track of  openstack.
 - 😄 Pronouns: he/him
 
 
