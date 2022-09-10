@@ -19,7 +19,7 @@
   ## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
-- 🔭 I’m currently a 1st year Bsc(Hons.) Computer Science student  at Ramanujan College(University of Delhi).
+- 🔭 I’m currently a 2snd year BSc(Hons.) Computer Science student  at Ramanujan College(University of Delhi).
 - 👯 I am interesting in open source and cloud computing . 
 - Skills- C++, Java , python , Docker , kubernetes and nowadays in track of  openstack.
 - 😄 Pronouns: he/him
@@ -60,5 +60,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-tomar-929b1822a" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
 <a href="mailto:tomar102003@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://twitter.com/tomar102003" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="shivi28" height="30" width="30" /></a>
 </p>
 
