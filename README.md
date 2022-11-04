@@ -19,9 +19,9 @@
   ## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
-- 🔭 I’m currently a 2snd year BSc(Hons.) Computer Science student  at Ramanujan College(University of Delhi).
+- 🔭 I’m currently a 2nd year BSc(Hons.) Computer Science student  at Ramanujan College(University of Delhi).
 - 👯 I am interesting in open source and cloud computing . 
-- Skills- C++, Java , python , Docker , kubernetes and nowadays in track of  openstack.
+- Skills- C++, Java , python , Docker , kubernetes,openstack and nowadays in track of  magma 4G/5G.
 - 😄 Pronouns: he/him
 
 
