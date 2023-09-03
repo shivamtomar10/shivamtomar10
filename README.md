@@ -28,7 +28,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Shivani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shivamtomar10&hide_border=true&theme=redical)
+![Shivam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shivamtomar10&hide_border=true&theme=redical)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamtomar10"></img>
 
