@@ -20,7 +20,7 @@
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
 - 🔭 I’m currently enrolled in Master in Computer Applications @ VIT Vellore.
-- 👯 I am interesting in open source and cloud computing . 
+- 👯 I am interesting in problem soving , open source and cloud computing . 
 - Skills- C++, Java , python , Docker , kubernetes,openstack and nowadays in track of  Leetcode .
 - 😄 Pronouns: he/him
 
