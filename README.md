@@ -5,8 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hey+There!;I'm+Shivam+Tomar;Welcome+to+my+GitHub+Profile!" />
 </p>
 
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamtomar10&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
 <p align="center">
-  <img src="https://gpvc.arturio.dev/shivamtomar10" alt="Profile Views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shivamtomar10" alt="Visitors" />
 </p>
 
@@ -109,7 +112,9 @@ A platform for sharing, borrowing, and managing books online.
 ## ⭐ **Followers**
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/shivamtomar10?label=Followers&style=social"/>
+  <a href="https://github.com/shivamtomar10?tab=followers">
+    <img src="https://img.shields.io/github/followers/shivamtomar10?label=Follow&style=social" alt="Follow" />
+  </a>
 </p>
 
 ---
