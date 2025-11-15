@@ -1,65 +1,117 @@
+<!-- CENTER HEADING -->
 
 
-![Profile views](https://gpvc.arturio.dev/shivamtomar10) 
-
-
-
-<p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=shivamtomar10" alt="visitors"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hey+There!;I'm+Shivam+Tomar;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Shivam%20Tomar%20;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-</a>
-</p>
-<div align = "left">
-  <img  align=right alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
-<br>
-
-  ## 🙋‍♂️ About Me
-<!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
-
-- 🔭 I’m currently enrolled in Master in Computer Applications @ VIT Vellore.
-- 👯 I am interesting in problem soving , open source and cloud computing . 
-- Skills- C++, Java , python , Docker , kubernetes,openstack and nowadays in track of  Leetcode .
-- 😄 Pronouns: he/him
-
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Shivam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shivamtomar10&hide_border=true&theme=redical)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamtomar10"></img>
-
-<hr>
-<p align="left">
-  <i>Languages and Tools:</i>
-<p align="left"> <a href="http://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a><a href="http://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.openstack.org/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/1.png" alt="OpenStack" width="40" height="40"/> </a> <a href="https://helm.sh/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/helm.png" alt="Helm v3" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/k8s.png" alt="Kubernetes" width="70" height="50"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/docker.png" alt="Docker" width="70" height="50"/> </a> <a href="https://ceph.io/en/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/ceph.png" alt="Ceph" width="40" height="50"/> </a> </p> </p>
-<hr>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/shivamtomar10/github-readme-stats"><img alt="Shivam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamtomar10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shivamtomar10/github-readme-stats"><img alt="Shivam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtomar10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-
-
-## Followers
-
-<a href="https://github.com/?tab=followers"><img src="https://img.shields.io/github/followers/shivamtomar10?label=Followers&style=social" alt="GitHub Badge"></a>
-
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/shivam-tomar-929b1822a" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
-<a href="mailto:tomar102003@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://twitter.com/tomar102003" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/twitter.svg" alt="shivi28" height="30" width="30" /></a>
+  <img src="https://gpvc.arturio.dev/shivamtomar10" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shivamtomar10" alt="Visitors" />
 </p>
 
+---
+
+## 🙋‍♂️ **About Me**
+
+<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
+
+- 🎓 MCA Student at **VIT Vellore**  
+- 🧠 Passionate about **Cloud, DevOps, System Design & Problem Solving**  
+- 🚀 Skilled in **C++, Java, Python, Docker, Kubernetes, Helm, OpenStack, Ceph**  
+- 💻 Active on **LeetCode**  
+- 🌱 Exploring **Distributed Systems & Advanced DevOps Tools**  
+- 😄 Pronouns: **he/him**
+
+---
+
+## 🛠️ **Tech Stack & Tools**
+
+### 🔹 **Programming Languages**
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+</p>
+
+### 🔹 **DevOps & Cloud Tools**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenStack-E32F2F?logo=openstack&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ceph-EF5C55?logo=ceph&logoColor=white&style=for-the-badge"/>
+</p>
+
+### 🔹 **Version Control & OS**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🔹 **Laundry Automation**
+A complete laundry management and automation system with modern UI and workflow handling.  
+🔗 https://github.com/shivamtomar10/Laundry-Automation  
+
+### 🔹 **BookBridge**
+A platform for sharing, borrowing, and managing books online.  
+🔗 https://github.com/shivamtomar10/BookBridge  
+
+---
+
+## 🧠 **LeetCode Stats**
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivamtomar10?theme=dark&font=Karla&ext=heatmap" />
+</p>
+
+---
+
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamtomar10&theme=react&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamtomar10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtomar10&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamtomar10&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 **GitHub Contribution Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-tomar-929b1822a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:tomar102003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/tomar102003"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+## ⭐ **Followers**
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/shivamtomar10?label=Followers&style=social"/>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for stopping by — keep exploring! 🚀</h3>
