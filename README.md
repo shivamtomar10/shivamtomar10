@@ -25,7 +25,7 @@
 - 💻 Active on **LeetCode**  
 - 🌱 Exploring **Distributed Systems & Advanced DevOps Tools**  
 - 😄 Pronouns: **he/him**
-
+<a href="https://bio.link/tomar102003">Portfolio</a>
 ---
 
 ## 🛠️ **Tech Stack & Tools**
@@ -105,7 +105,6 @@ A platform for sharing, borrowing, and managing books online.
   <a href="https://www.linkedin.com/in/shivam-tomar-929b1822a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="mailto:tomar102003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://twitter.com/tomar102003"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://bio.link/tomar102003"><img src="https://play.google.com/store/apps/details?id=app.biolink"/></a>
 </p>
 
 ---
