@@ -58,6 +58,10 @@
 
 ## 🚀 **Featured Projects**
 
+### 🔹 **Privacy Preservation using AI Agents**
+A multi-level Federated Learning System built with intelligent AI agents that collaboratively train models across multiple hospitals without sharing raw data — ensuring data privacy, security, and robustness  
+🔗 https://github.com/shivamtomar10/federated_privacy_agents  
+
 ### 🔹 **Laundry Automation**
 A complete laundry management and automation system with modern UI and workflow handling.  
 🔗 https://github.com/shivamtomar10/Laundry-Automation  
