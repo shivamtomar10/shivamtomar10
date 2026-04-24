@@ -25,7 +25,9 @@
 - 💻 Active on **LeetCode**  
 - 🌱 Exploring **Distributed Systems & Advanced DevOps Tools**  
 - 😄 Pronouns: **he/him**
-<a href="https://bio.link/tomar102003">Portfolio</a>
+---
+<a href="https://bio.link/tomar102003">Explore My Work</a>
+
 ---
 
 ## 🛠️ **Tech Stack & Tools**
